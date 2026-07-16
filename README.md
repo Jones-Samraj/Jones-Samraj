@@ -58,8 +58,6 @@ const jonesSamraj = {
 
 </div>
 
----
-
 ## 📊 GitHub Analytics
 
 <!-- Replace "Jones-Samraj" in ALL stat URLs below with your actual GitHub username -->
@@ -83,8 +81,6 @@ const jonesSamraj = {
 
 </div>
 
----
-
 ## 🏆 Achievements & Events
 
 <div align="center">
@@ -95,8 +91,6 @@ const jonesSamraj = {
 | 💡 **Innovation Participant** | Incubate 2025 — IIT & JIPMER | 2025 | Gained startup & entrepreneurship exposure at premier institutions |
 
 </div>
-
----
 
 ## 🎓 Education
 
@@ -118,8 +112,6 @@ const jonesSamraj = {
 
 </div>
 
----
-
 ## 🌐 Let's Connect
 
 <div align="center">
@@ -134,8 +126,6 @@ const jonesSamraj = {
 
 </div>
 
----
-
 ## 💭 Developer Philosophy
 
 <div align="center">
@@ -147,8 +137,6 @@ const jonesSamraj = {
 *Still learning. Always building.*
 
 </div>
-
----
 
 <div align="center">
 
