@@ -56,6 +56,8 @@ const jonesSamraj = {
 
 </div>
 
+<br/>
+
 ## 📊 GitHub Analytics
 
 <!-- Replace "Jones-Samraj" in ALL stat URLs below with your actual GitHub username -->
@@ -79,6 +81,8 @@ const jonesSamraj = {
 
 </div>
 
+<br/>
+
 ## 🏆 Achievements & Events
 
 <div align="center">
@@ -89,6 +93,8 @@ const jonesSamraj = {
 | 💡 **Innovation Participant** | Incubate 2025 — IIT & JIPMER | 2025 | Gained startup & entrepreneurship exposure at premier institutions |
 
 </div>
+
+<br/>
 
 ## 🎓 Education
 
@@ -110,6 +116,8 @@ const jonesSamraj = {
 
 </div>
 
+<br/>
+
 ## 🌐 Let's Connect
 
 <div align="center">
@@ -120,9 +128,11 @@ const jonesSamraj = {
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jones-Samraj)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonessamrajb@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://your-portfolio.dev)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/jones-samraj)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]([https://leetcode.com/jones-samraj](https://leetcode.com/u/JonesSamraj/))
 
 </div>
+
+<br/>
 
 ## 💭 Developer Philosophy
 
