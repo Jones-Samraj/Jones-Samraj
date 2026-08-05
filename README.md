@@ -34,7 +34,6 @@ const jonesSamraj = {
   role:        "Full-Stack Developer",
   institution: "Bannari Amman Institute of Technology",
   degree:      "B.Tech – Information Technology (2024–2028)",
-  cgpa:        8.53,
   location:    "Tamil Nadu, India 🇮🇳",
   focus:       ["Scalable Web Apps", "Secure Authentication Systems", "Clean Architecture"],
   exploring:   ["Machine Learning", "Computer Vision", "System Design"],
@@ -106,7 +105,7 @@ const jonesSamraj = {
 │   🏛️  Bannari Amman Institute of Technology, Sathyamangalam        │
 │                                                                     │
 │   📚  B.Tech — Information Technology                               │
-│   📅  2024 – 2028                               CGPA: 8.53 / 10 ✨  │
+│   📅  2024 – 2028                                                   │
 │                                                                     │
 │   Coursework: Data Structures · DBMS · OOP · Web Development ·      │
 │               Operating Systems                                     │
